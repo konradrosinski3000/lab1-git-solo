@@ -1,4 +1,4 @@
-# Lab 1 - Git
+# Projekt Beta
 ## Autor
 Konrad Rosiński
 ## Stopka
