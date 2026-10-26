@@ -1,4 +1,4 @@
-# Lab 1 - Git
+# Projekt Alfa
 ## Autor
 Konrad Rosiński
 ## Stopka
