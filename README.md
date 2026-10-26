@@ -1,3 +1,3 @@
-# Lab 1 - git
+# Lab 1 - Git
 ## Autor
 Konrad Rosiński
